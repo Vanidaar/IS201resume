@@ -1,0 +1,25 @@
+.resumebg {
+    background-color: rgba(23, 144, 200, 0.506);
+}
+.homebg {
+    background-image: url(../images/Me.jpg);
+    
+}
+.head {
+    font-family: Arial, Helvetica, sans-serif; font-size: 45px; font-weight: bold; justify-self: center;
+}
+h1 {
+    text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 40 px; 
+}
+h3 {
+    font-size: 25px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; text-align: center; color: rgb(69, 68, 68);
+}
+ol {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: 17px; font-weight: bold;
+}
+ul {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 14px;text-decoration:none; font-weight: 300;}
+.link {text-decoration: none; color: rgb(190, 126, 74); font-size: 20px;font-weight: bold;}
+
+.vids {
+    float: right;
+}

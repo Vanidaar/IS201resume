@@ -1,0 +1,40 @@
+.common {
+    background-color: rgba(23, 102, 61, 0.359);
+    border: 0px;
+    
+    position:absolute;
+}
+
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100;
+}
+
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 120px;
+    bottom:auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; color: rgb(69, 149, 100); text-decoration: none; font-size: 22px;
+    
+}
+
+.rightmenu {
+    top: 114px;
+    right: 5px;
+    width: 250px;
+ 
+}
+
+.mainbody {
+    top: 114px;
+    left: 134px;
+    right: 264px;
+    bottom: auto;
+    
+}
+
+
